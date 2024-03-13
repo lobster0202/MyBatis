@@ -48,14 +48,13 @@ public class Application {
         /* getMapper() : Configuration에 등록된 Mapper를 동일 타입에 대해 반환하는 메소드 */
         Mapper mapper = sqlSession.getMapper(Mapper.class);
 
+        /* 이렇게 하면 xml이 아니라 인터페이스에다가 저장할거임 */
 //        mapper.selectSysdate();
 
         /* Mapper 인터페이스에 작성된 메소드를 호출하여 쿼리 실행 */
         java.util.Date date = mapper.selectSysdate();
 
         System.out.println(date);
-
-        /* 이렇게 하면 xml이 아니라 인터페이스에다가 저장할거임 */
 
         sqlSession.close();
     }

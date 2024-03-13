@@ -5,40 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7696179-1ab1-421a-a833-03df4ff05326" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../chap01-connection-config-lecture-source/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap02-scope-lifecycle-lecture-source/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap03-crud-lecture-source/src/main/java/com/ohgiraffers/section02/javaconfig/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap03-crud-lecture-source/src/main/java/com/ohgiraffers/section02/javaconfig/MenuController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap03-crud-lecture-source/src/main/java/com/ohgiraffers/section02/javaconfig/MenuDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap03-crud-lecture-source/src/main/java/com/ohgiraffers/section02/javaconfig/MenuMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap03-crud-lecture-source/src/main/java/com/ohgiraffers/section02/javaconfig/MenuService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap03-crud-lecture-source/src/main/java/com/ohgiraffers/section02/javaconfig/PrintResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap03-crud-lecture-source/src/main/java/com/ohgiraffers/section02/javaconfig/Template.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap03-crud-lecture-source/src/main/java/com/ohgiraffers/section03/remix/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap03-crud-lecture-source/src/main/java/com/ohgiraffers/section03/remix/MenuController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap03-crud-lecture-source/src/main/java/com/ohgiraffers/section03/remix/MenuDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap03-crud-lecture-source/src/main/java/com/ohgiraffers/section03/remix/MenuMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap03-crud-lecture-source/src/main/java/com/ohgiraffers/section03/remix/MenuService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap03-crud-lecture-source/src/main/java/com/ohgiraffers/section03/remix/PrintResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap03-crud-lecture-source/src/main/java/com/ohgiraffers/section03/remix/Template.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap03-crud-lecture-source/src/main/resources/com/ohgiraffers/section03/remix/MenuMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/common/CategoryAndMenuDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/common/CategoryDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/common/MenuAndCategoryDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/common/MenuDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/common/Template.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/xmlmapper/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/xmlmapper/ElementTestMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section01/xmlmapper/ElementTestService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/ohgiraffers/section01/xmlmapper/ElementTestMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/config/connection-info.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/config/mybatis-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap01-connection-config-lecture-source/src/main/java/com/ohgiraffers/section02/xmlconfig/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap01-connection-config-lecture-source/src/main/java/com/ohgiraffers/section02/xmlconfig/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap04-dynamic-sql-lecture-source/src/main/java/com/ohgiraffers/section01/xml/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap04-dynamic-sql-lecture-source/src/main/java/com/ohgiraffers/section01/xml/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,34 +57,34 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Gradle.chap05-mapper-elements-lecture-source [:Application.main()].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/dev/lecture_code/mybatis/chap04-dynamic-sql-lecture-source&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/dev/lecture_code/mybatis/chap05-mapper-elements-lecture-source/src/main/java/org/example/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.chap05-mapper-elements-lecture-source [:Application.main()].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/dev/lecture_code/mybatis/chap01-connection-config-lecture-source",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/dev/lecture_code/mybatis/chap05-mapper-elements-lecture-source/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.ohgiraffers.common" />
@@ -149,6 +118,8 @@
       <workItem from="1709717932310" duration="1329000" />
       <workItem from="1709771843147" duration="17892000" />
       <workItem from="1709809832192" duration="4000" />
+      <workItem from="1710320060125" duration="674000" />
+      <workItem from="1710327191849" duration="222000" />
     </task>
     <servers />
   </component>
