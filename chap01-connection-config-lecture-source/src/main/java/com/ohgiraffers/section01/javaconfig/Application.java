@@ -21,7 +21,7 @@ public class Application {
     /* DB 접속에 관한 환경 설정
     * ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
     * JdbcTransactionFactory : 수동 커밋
-    * ManagedTransactionFactory : 자동 커밋
+    * ManagedTransactionFactory : 자동 커밋.,
     * ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
     * PooledDataSource : ConnectionPool 사용
     * UnpooledDataSource : ConnectionPool 미사용   */
